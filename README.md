@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @1962247851
+- 👋 Hi, I’m Kinzo
 - 👀 I’m interested in Anything that makes me `HAPPY`
-- 🌱 I’m currently learning `C` `T` `R` `L`
-- 💞️ I’m looking to collaborate on `Java Open Source Projects`
-- 📫 How to reach me or-mjz@qq.com
+- 🌱 I’m currently learning `Machine Version`, `LRM`
+- 💞️ I’m looking to collaborate on `直播` `弹幕`
+- 📫 How to reach me miaojinzhou@126.com
 - 🌍 Welcome to visit `OR Blog` [https://blog.ordinaryroad.tech](https://blog.ordinaryroad.tech)
 
 <picture>
